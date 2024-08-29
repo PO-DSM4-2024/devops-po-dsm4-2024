@@ -1,1 +1,1 @@
-Frontend do projeto de portfólio online
+DevOps do projeto de portfólio online
